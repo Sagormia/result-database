@@ -1,0 +1,12 @@
+body{
+    background-image:url(../img/e.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:100vh;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.card{
+    box-shadow:0px -1px 28px white;
+}
